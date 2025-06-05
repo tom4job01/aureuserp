@@ -13,7 +13,7 @@
         "barryvdh/laravel-debugbar": "^3.15",
         "barryvdh/laravel-dompdf": "^3.1",
         "bezhansalleh/filament-shield": "^3.2",
-        "filament/filament": "^3.2",
+        "filament/filament": "^3.0",
         "filament/spatie-laravel-settings-plugin": "^3.2",
         "flowframe/laravel-trend": "^0.3.0",
         "guava/filament-icon-picker": "^2.0",
